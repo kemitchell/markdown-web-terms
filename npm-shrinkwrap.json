@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "entities": {
+      "version": "1.1.1",
+      "from": "entities@>=1.1.1 <1.2.0",
+      "resolved": "https://registry.npmjs.org/entities/-/entities-1.1.1.tgz"
+    },
+    "mdurl": {
+      "version": "1.0.1",
+      "from": "mdurl@>=1.0.1 <1.1.0",
+      "resolved": "https://registry.npmjs.org/mdurl/-/mdurl-1.0.1.tgz"
+    },
+    "minimist": {
+      "version": "1.2.0",
+      "from": "minimist@>=1.2.0 <1.3.0",
+      "resolved": "https://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz"
+    },
+    "string.prototype.repeat": {
+      "version": "0.2.0",
+      "from": "string.prototype.repeat@>=0.2.0 <0.3.0",
+      "resolved": "https://registry.npmjs.org/string.prototype.repeat/-/string.prototype.repeat-0.2.0.tgz"
+    }
+  }
+}
